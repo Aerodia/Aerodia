@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aerodia
+- 👋 Hi, I’m Aryan 
 - 👀 I’m interested in Pc Hardwares,Softwares,Programming Languages
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on Team Projects
